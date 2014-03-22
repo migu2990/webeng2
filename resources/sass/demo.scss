@@ -1,0 +1,12 @@
+$baseColor: #37485f;
+$primaryColor: #3BBC9B;
+@import 'sencha-touch/base';
+@import 'sencha-touch/base/all';
+
+@import 'sencha-touch/default';
+@import 'sencha-touch/default/src/button';
+@import 'sencha-touch/default/src/tab/panel';
+
+html, body { background-color: #efefef; }
+
+@import 'demo/buttons';
